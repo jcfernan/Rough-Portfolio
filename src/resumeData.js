@@ -25,7 +25,19 @@ let resumeData= {
             "specialization":"Full-Stack Software Engineering",
             "MonthOfPassing":"Oct",
             "YearOfPassing":"2020",
-            "Achievments":
+            "Achievments":"Wrote applications using Ruby | React | SQLite | Python | Ruby on Rails | HTML | CSS | Adobe Photoshop"
+        },
+        {
+            "UniversityName":"Colorado State University",
+            "specialization":"Wildlife Biology",
+            "MonthOfPassing":"May",
+            "YearOfPassing":"2012",
+            "Achievements":"Very involved with student government"
+        }
+    ],
+    "work":[
+        {
+            "CompanyName":""
         }
     ]
 }
