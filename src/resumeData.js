@@ -37,7 +37,10 @@ let resumeData= {
     ],
     "work":[
         {
-            "CompanyName":""
+            "CompanyName":"Recreational Equipment Inc.",
+            "specialization":"Softgoods Sales Lead",
+            "monthOfLeaving":"June",
+            "yearOfLeaving":"2020"
         }
     ]
 }
