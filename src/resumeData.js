@@ -40,7 +40,24 @@ let resumeData= {
             "CompanyName":"Recreational Equipment Inc.",
             "specialization":"Softgoods Sales Lead",
             "monthOfLeaving":"June",
-            "yearOfLeaving":"2020"
+            "yearOfLeaving":"2020",
+            "Achievements":[
+                    "Increased sales of clothing add-ons, quarter after quarter, by educating the department about unique and fun sales techniques",
+                    "Facilitated monthly training for five different departments to cross-train employees on department-centric sales techniques",
+                    "Use market researched marketing and zoning techniques to increase sales of seasonally featured apparel"
+            ]
+        },
+        {
+            "CompanyName":"County, State, & Federal Goverment",
+            "specialization":"Natural Resource Technician",
+            "monthOfLeaving":"Dec.",
+            "yearOfLeaving":"2017",
+            "Achievements":[
+                    "Conducted aquatic research of Lake Trout population using Hydrophones to determine population growth",
+                    "Interact with park visitors, providing information on hiking trails, camping, wildlife, and flora of the area",
+                    "Perform terrestrial biological inventories to aid in the placement of new recreational opportunities in our open spaces"
+            ]
         }
-    ]
+    ],
+    
 }
