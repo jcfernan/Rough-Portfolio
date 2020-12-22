@@ -59,5 +59,23 @@ let resumeData= {
             ]
         }
     ],
-    
+    "skillsDescription":"Your skills here",
+    "skills":[
+        {
+            "skillname":"HTML5"
+        },
+        {
+        "skillname":"CSS"
+    },
+
+    {
+        "skillname":"Ruby"
+    },
+    {
+        "skillname":"Ruby on Rails"
+    },
+    {
+        "skillname":"Javascript"
+    },
+    ]
 }
