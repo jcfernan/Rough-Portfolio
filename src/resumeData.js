@@ -65,17 +65,49 @@ let resumeData= {
             "skillname":"HTML5"
         },
         {
-        "skillname":"CSS"
-    },
+            "skillname":"CSS"
+        },
 
-    {
-        "skillname":"Ruby"
-    },
-    {
-        "skillname":"Ruby on Rails"
-    },
-    {
-        "skillname":"Javascript"
-    },
+        {
+            "skillname":"Ruby"
+        },
+        {
+            "skillname":"Ruby on Rails"
+        },
+        {
+            "skillname":"Javascript"
+        },
+        {
+            "skillname":"Python"
+        },
+        {
+            "skillname":"SQL"
+        },
+        {
+            "skillname":"Adobe Photoshop"
+        }
+    ],
+    "portfolio":[
+        {
+            "name":"Bird Finder",
+            "description":"A mapping app of recent birds sightings reported to the Cornell Ornithology Lab using Python",
+            "imgurl":"src/img/Bird_finder.png"
+        },
+        {
+            "name":"SuperHangman",
+            "description":"A clone of the popular Hangman game using Ruby",
+            "imgurl":"src/img/Super_hangman.gif"
+        },
+        {
+            "name":"I'm Thirsty",
+            "description":"An app to help the user select an alcoholic beverage using Ruby on Rails",
+            "imgurl":"src/img/Im_thirsty.png"
+        },
+        {
+            "name":"Joyful_art",
+            "description":"An ecommerce  app created with React to present a local artist’s work",
+            "imgurl":"src/img/Joyful_art.png"
+        }
     ]
 }
+export default resumeData
