@@ -15,7 +15,10 @@ export default class ContactUs extends Component{
                     <aside className= "eight columns footer-widget">
                         <div className= "widget">
                             <h4>Linkedin:
-                                {https://www.linkedin.com/in/cfernan/}
+                                {'https://www.linkedin.com/in/cfernan/'}
+                            </h4>
+                            <h4>GitHub
+                                {'https://github.com/jcfernan'}
                             </h4>
                         </div>
                     </aside>
